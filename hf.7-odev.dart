@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                   Spacer(flex: 2),
                 ],
               ),
-              SizedBox(height: 50), // Alt satırı aşağı çekmek için boşluk ekliyoruz
+              SizedBox(height: 50), 
               Row(
                 children: [
                   Spacer(flex: 4),
